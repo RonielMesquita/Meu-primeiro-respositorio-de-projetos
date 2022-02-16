@@ -4,4 +4,4 @@
 
 
 [java](https://www.javascript.com/)
-[listas-de-exercicio](https://wiki.python.org.br/ExerciciosListas)
+[listas-de-exercicios](https://wiki.python.org.br/ExerciciosListas)
